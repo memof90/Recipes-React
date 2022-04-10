@@ -53,3 +53,6 @@ _**PS: the number of recipes shown is limited to 9 on the URL, you can always ch
 With that, you should be able to search any recipe or filter it by Italian, American, Thai and Japanese food. You can always search for the [documentation of the API](https://spoonacular.com/food-api/docs "Spoonacular's API documentation") if you want to improve this website.
 
 Hope this documentation is useful to you.
+
+## Demo
+[Recipes](https://sprightly-cocada-b93fa2.netlify.app)
